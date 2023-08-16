@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulmaru1519" alt="rahulmaru1519" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imrmaru" target="blank"><img src="https://img.shields.io/twitter/follow/imrmaru?logo=twitter&style=for-the-badge" alt="imrmaru" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imRMaru" target="blank"><img src="https://img.shields.io/twitter/follow/imrmaru?logo=twitter&style=for-the-badge" alt="imrmaru" /></a> </p>
 
 - 🔭 I’m currently working on **Fake product identification by QR code using Blockchain**
 
